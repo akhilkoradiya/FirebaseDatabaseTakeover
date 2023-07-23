@@ -1,6 +1,6 @@
 # Firebase Database Takeover (FDT)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green)]([https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/LICENSE](https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/blob/main/LICENSE))
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/blob/main/LICENSE))
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@hackerno21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mytwitterhandle?label=Follow%20on%20Twitter&style=social)](https://twitter.com/akhilkoradiya21)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-koradiya-2722a51a0)
