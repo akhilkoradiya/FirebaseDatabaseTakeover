@@ -2,7 +2,7 @@ from setuptools import setup
 
 readme = """# Firebase Database Takeover (FDT)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/blob/main/LICENSE)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@hackerno21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mytwitterhandle?label=Follow%20on%20Twitter&style=social)](https://twitter.com/akhilkoradiya21)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-koradiya-2722a51a0)
@@ -68,7 +68,7 @@ fdt <add_your_firebase_database_url>
 This script is intended for educational and testing purposes only. The author is not responsible for any misuse or damage caused by the usage of this script. Use it at your own risk.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/akhilkoradiya/FirebaseDatabaseTakeover/blob/main/LICENSE).
 
 ## Author
 
@@ -84,7 +84,7 @@ Follow me on:
 
 setup(
     name="FirebaseDatabaseTakeover",
-    version="1.0.0",
+    version="1.0.1",
     author="Akhil Koradiya",
     author_email="akhil.koradiya.21@gmail.com",
     description="Firebase Database Takeover tool",
