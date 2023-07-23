@@ -84,7 +84,7 @@ Follow me on:
 
 setup(
     name="FirebaseDatabaseTakeover",
-    version="1.0",
+    version="1.0.0",
     author="Akhil Koradiya",
     author_email="akhil.koradiya.21@gmail.com",
     description="Firebase Database Takeover tool",
