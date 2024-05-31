@@ -74,8 +74,6 @@ Firebase Database Takeover is developed by **Akhil Koradiya.**
 
 Follow me on:
 
-Follow me on:
-
 **YouTube:** [https://www.youtube.com/@hackerno21](https://www.youtube.com/@hackerno21)
 
 **GitHub:** [https://github.com/akhilkoradiya](https://github.com/akhilkoradiya)
